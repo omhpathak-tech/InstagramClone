@@ -1,4 +1,4 @@
-package com.example.instagramclone;
+rpackage com.example.instagramclone;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
